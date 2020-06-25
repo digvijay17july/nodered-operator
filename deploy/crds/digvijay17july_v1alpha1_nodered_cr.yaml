@@ -1,0 +1,7 @@
+apiVersion: digvijay17july/v1alpha1
+kind: Nodered
+metadata:
+  name: example-nodered
+spec:
+  # Add fields here
+  size: 3
